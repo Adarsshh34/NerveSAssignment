@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nerve-Solution-Assignment/static/css/main.e634dd6e.css",
+    "main.js": "/Nerve-Solution-Assignment/static/js/main.fa369fad.js",
+    "static/js/453.b9965099.chunk.js": "/Nerve-Solution-Assignment/static/js/453.b9965099.chunk.js",
+    "index.html": "/Nerve-Solution-Assignment/index.html",
+    "main.e634dd6e.css.map": "/Nerve-Solution-Assignment/static/css/main.e634dd6e.css.map",
+    "main.fa369fad.js.map": "/Nerve-Solution-Assignment/static/js/main.fa369fad.js.map",
+    "453.b9965099.chunk.js.map": "/Nerve-Solution-Assignment/static/js/453.b9965099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e634dd6e.css",
+    "static/js/main.fa369fad.js"
+  ]
+}
